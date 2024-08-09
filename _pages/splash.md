@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
 excerpt: >
-  Proto-astrophysicist, photography lover, pained musician. <br />
+  PhD student and NSF Graduate Research Fellow  <br /> at the University of Chicago
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row:
   - image_path: /assets/images/dalle_subneptune.jpg
