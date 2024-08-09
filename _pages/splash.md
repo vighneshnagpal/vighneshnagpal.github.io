@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /
-# hidden: true
 header:
   overlay_color: "#88ddf2"
   overlay_image: /assets/images/landing_photo.jpg
