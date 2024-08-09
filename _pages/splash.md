@@ -17,20 +17,20 @@ feature_row:
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ilight_selfie2.jpg
-    alt: "fully responsive"
-    title: "outreach & service"
-    excerpt: "in progress"
-    url: "/docs/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/landing_photo.jpg
     alt: "100% free"
     title: "about me"
     excerpt: "in progress"
     url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more" 
+  - image_path: /assets/images/ilight_selfie2.jpg
+    alt: "fully responsive"
+    title: "outreach & service"
+    excerpt: "in progress"
+    url: "/docs/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
 ---
 
 {% include feature_row %}
