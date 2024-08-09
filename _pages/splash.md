@@ -29,7 +29,7 @@ feature_row:
     alt: "100% free"
     title: "about me"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/_pages/about/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
