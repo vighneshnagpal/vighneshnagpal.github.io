@@ -18,17 +18,17 @@ feature_row:
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/landing_photo.jpg
+  - image_path: /assets/images/ilight_selfie2.jpg
     alt: "fully responsive"
     title: "outreach & service"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "in progress"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/landing_photo.jpg
     alt: "100% free"
     title: "about me"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    excerpt: "in progress"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
