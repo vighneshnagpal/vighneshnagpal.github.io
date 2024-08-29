@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
 excerpt: >
-  1st year PhD student + NSF Graduate Research Fellow  <br /> University of Chicago Astrophysics
+  PhD student & NSF GRFP <br /> University of Chicago Astrophysics
 feature_row:
   - image_path: /assets/images/dalle_subneptune.jpg
     alt: "my research"
