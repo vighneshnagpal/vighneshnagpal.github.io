@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/minimalist_background.jpg"
+  overlay_image: "/assets/images/swiss_photo_cropped.jpg"
   overlay_color: "#88ddf2"
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
