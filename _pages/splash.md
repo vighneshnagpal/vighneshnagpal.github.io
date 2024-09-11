@@ -14,7 +14,7 @@ feature_row:
     alt: "my research"
     title: "research"
     excerpt: "exoplanets, radio astronomy and more"
-    url: "/docs/about/"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/landing_photo.jpg
