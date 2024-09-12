@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/swiss_photo.jpg"
-  overlay_color: "#88ddf2"
+  # overlay_color: "#88ddf2"
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
