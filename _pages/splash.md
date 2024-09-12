@@ -2,8 +2,9 @@
 layout: splash
 permalink: /
 header:
+  overlay_color: "#88ddf2"
+  overlay_filter: "0.5"
   overlay_image: "/assets/images/unsplash-image-1.jpg"
-  # overlay_color: "#88ddf2"
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
