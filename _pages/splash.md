@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/test.jpg"
+  overlay_image: /assets/images/test.jpg
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
