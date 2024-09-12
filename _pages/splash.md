@@ -2,8 +2,8 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  # overlay_color: "#000"
+  # overlay_filter: "0.5"
   overlay_image: /assets/images/minimalist_background.jpg
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
