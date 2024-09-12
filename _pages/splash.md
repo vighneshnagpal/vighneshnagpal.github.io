@@ -2,8 +2,6 @@
 layout: splash
 permalink: /
 header:
-  # overlay_color: "#88ddf2"
-  # # overlay_filter: "0.5"
   overlay_image: "/assets/images/test.jpg"
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
