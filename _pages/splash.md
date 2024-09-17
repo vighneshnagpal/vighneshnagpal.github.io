@@ -4,7 +4,7 @@ permalink: /
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.5"
-  overlay_image: /assets/images/.jpg
+  overlay_image: /assets/images/milkyway.jpg
   actions:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
