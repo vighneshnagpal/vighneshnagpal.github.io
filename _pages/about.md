@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+classes: wide
 ---
 
 Howdy! I'm Vighnesh, a PhD student in Astronomy & Astrophysics at the University of Chicago. My research interests are broad and still-evolving, but I have been developing a particular fondness for the study of exoplanets and their astounding diversity. 
