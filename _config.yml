@@ -69,9 +69,8 @@ author:
       url: "https://github.com/vighneshnagpal"
     
     - label: "Google Scholar"
-    - icon: "fa-brands fa-google-scholar"
     - url: "https://scholar.google.com/citations?user=_fX-Fu8AAAAJ&hl=en&oi=ao"
-    
+
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
