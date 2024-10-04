@@ -11,6 +11,6 @@ I obtained my undergraduate degree in Physics & Astrophysics from the University
 
 Outside research, my university experience was immeasurably enriched by the community at <a href="https://ihouse.berkeley.edu/">International House</a>, a place I was lucky to call home throughout my stay in Berkeley.  
 
-Along the way, I have been exceptionally fortunate to work with some exceptional mentors including (but not limited) to  <a href="https://sites.google.com/g.harvard.edu/sarah/home">Sarah Blunt</a>, Josh Dillon, Brendan Bowler, Konstantin Batygin, Aaron Parsons, Max Goldberg, and Soumavo Ghosh.  
+Along the way, I have been exceptionally fortunate to work with some exceptional mentors including (but not limited) to  <a href="https://sites.google.com/g.harvard.edu/sarah/home">Sarah Blunt</a>, <a href="https://joshdillon.com/">Josh Dillon</a>, Brendan Bowler, Konstantin Batygin, Aaron Parsons, Max Goldberg, and Soumavo Ghosh.  
 
 Outside astronomy, I love producing music, photography, and have the dangerous tendency to binge-watch fluffy K-Dramas and anime. I am also always down to play racket sports or for a game of volleyball.
