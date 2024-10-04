@@ -1,4 +1,5 @@
 ---
+title: 
 layout: splash
 permalink: /
 header:
@@ -9,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'></i> my CV"
       url: "/assets/documents/vnagpal_CV.pdf"
 excerpt: >
-  PhD student & NSF GRFP <br /> University of Chicago Astrophysics
+  PhD student in Astrophysics at the University of Chicago
 feature_row:
   - image_path: /assets/images/dalle_subneptune.jpg
     alt: "my research"
