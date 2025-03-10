@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+
+
+<div class="homepage">
+    
+    <div>
+      <img src="/swissmecropped.jpg" alt="Aligned Image" class="wrap-image";>
+    </div> 
+
+    <!-- <div>
+      <span class="name-title">Vighnesh Nagpal</span>
+    </div> -->
+
+    <div style="text-align: right;">
+      <span class="name-title">Vighnesh Nagpal</span>
+
+      <h1>About</h1>
+      <p class="myabout">I am a PhD student and NSF Graduate Research Fellow in the Department of Astronomy & Astrophysics at the University of Chicago.</p>
+
+      <h1>Quick Links</h1>
+
+      <a href="/nagpal_cv2025.pdf" target="_blank">Curriculum Vitae (PDF)</a><br>
+      <a href="https://scholar.google.com/citations?user=_fX-Fu8AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a><br> 
+    </div>
+
+    
+
+</div>
+
+<style>
+  .homepage {
+    margin-top: 30px; /* Adds space at the top of the page */
+  }
+
+  .name-title {
+    font-size: 60px; /* Set font size for the name */
+    font-weight: normal; /* Remove bold style */
+    line-height: 1; /* Keep the name aligned with the image */
+    padding-right: 10px; /* Adds space between name and image */
+    padding-left: 10px; /* Adds space between name and image */
+    margin-bottom: 20px; Control the spacing between name/image and content
+  }
+
+  .wrap-image {
+    width: 400px; /* Set width of the image */
+    height: auto;
+    float: right; 
+    margin-bottom: 10px; Control the spacing between name/image and content
+    margin-right: 10px; Control the spacing between name/image and content
+    padding-right: 10px; /* Adds space between name and image */
+    padding-left: 20px; /* Adds space between name and image */
+
+  }
+
+  /* Links section */
+  /* h1 {
+    margin-top: 20px; /* Adds space before the heading */
+  } */
+
+  a {
+    margin-top: 10px;
+    display: inline-block;
+  }
+</style>
+
+{{ end }}

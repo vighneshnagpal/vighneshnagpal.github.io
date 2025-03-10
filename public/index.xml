@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vighnesh-nagpal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on vighnesh-nagpal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello! I am a PhD student and NSF Graduate Research Foundation Fellow in the Department of Astronomy &amp;amp; Astrophysics at the University of Chicago. Here, I am working with &lt;a href=&#34;https://astrophysics.uchicago.edu/people/profile/diana-powell/&#34;&gt;Professor Diana Powell&lt;/a&gt; on sub-Neptune atmospheres, with a particular focus on developing new models for aerosols in the atmospheres of these as-yet enigmatic planets. I also maintain broad and developing interests across planet formation and demographics.&lt;/p&gt;&#xA;&lt;p&gt;Before moving to the tropical paradise that is Chicago, I spent some happy years at UC Berkeley, from where I obtained my undergraduate degree in physics &amp;amp; astrophysics in December 2023. I was especially fortunate to get to do research on topics spanning radio astronomy and exoplanet science with amazing mentors including &lt;a href=&#34;https://sites.google.com/g.harvard.edu/sarah/home&#34;&gt;Sarah Blunt&lt;/a&gt;, &lt;a href=&#34;https://joshdillon.com/&#34;&gt;Josh Dillon&lt;/a&gt;, &lt;a href=&#34;https://www.konstantinbatygin.com/&#34;&gt;Konstantin Batygin&lt;/a&gt;, &lt;a href=&#34;https://www.physics.ucsb.edu/people/brendan-bowler&#34;&gt;Brendan Bowler&lt;/a&gt;, &lt;a href=&#34;https://maxgoldberg.me/&#34;&gt;Max Goldberg&lt;/a&gt;, and &lt;a href=&#34;https://sites.google.com/view/drsoumavoghosh&#34;&gt;Soumavo Ghosh&lt;/a&gt;. My time as an undergraduate was considerably enriched by the wonderful community at the UC Berkeley International House, which I was lucky to call home.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
